@@ -119,4 +119,3 @@ I'm excited to hear your <u><a href="https://forms.gle/38PiwB5dUTHNTPAS6" target
 
 #### Orders Page
 ![Orders](https://github.com/Dragon-H22/Fresh-Cart/assets/88390970/a2fdefd1-9fe7-46cf-9586-ce7a0ad94a14)
-
